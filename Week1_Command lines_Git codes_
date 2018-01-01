@@ -1,0 +1,109 @@
+
+ 
+
+
+1 git status 
+2 git confiq user.name good 
+3 git devs user.name success 
+4 git clean -n 
+5 git clean -f 
+6 git reset succes 
+7 git clean -n 
+8 git reset .bash_history 
+9 git revert "i love my god" 
+10 git unit 
+11 git init 
+12 git clone git 
+13 git add document.txt 
+14 git add kingsley anaobi 
+15 git diff 
+16 clear 
+17 git confiq -global user.name abanobi kingsley 
+18 git config -global user.name abanobi kingsley 
+19 git config -global user.email abanobikingsleyuzoma@gmail.com 
+20 git config -global alias. abanobikingsley 
+21 git config -global core,editor success adams 
+22 git config -global core,editor success adams 
+23 git config -global -edit success 
+24 git log --online 
+25 git log -p 
+26 git unit 
+27 git status 
+28 git status 
+29 git status 
+30 clear 
+31 hello git 
+32 clear 
+33 git init 
+34 git status 
+35 git add .bash-history 
+36 git add bash-history 
+37 clear 
+38 git init 
+39 git status 
+40 git branch suceess-new.area 
+41 git commit -m"i love codding" 
+42 git config --global user.email "you@example.com" 
+43 git config --global user.name abanobi kingsley uzoma 
+44 git status 
+45 git add Document/ 
+46 clear 
+47 clear 
+48 git init 
+49 clear 
+50 git init 
+51 git status 
+52 git add disclaimer.txt 
+53 git init 
+54 git status 
+55 clear 
+56 q 
+57 git init scene-5.txt 
+58 git commit -m" i love codding" 
+59 git show commit 
+60 git show HEAD 
+61 git checkout HEAD .bash-history 
+62 
+ 
+63 clear 
+64 git init 
+65 git status 
+66 git add  ntuser.dat.LOG1 
+67 git add success.txt 
+68 git commit -m "i am kingsley2 
+69 git commit -m "i am kingsley" 
+70 clear 
+71 clear 
+72 git init 
+73 status 
+74 git status 
+75 git add success.txt 
+76 git commit -m  
+77 git commit -m" i am kingsley" 
+78 git add success.txt 
+79 git status 
+80 git commit -m" i love success" 
+81 git log 
+82 git add success.txt 
+83 git status 
+84 git add   
+85 git log 
+86 git init 
+87 git status 
+88 git add .bash_history 
+89 git commit -m"I AM SUCCESS" 
+90 git log 
+91 git add .bash_history 
+92 git status 
+93 git commit -m"I AM abanobi success" 
+94 git log 
+95 git add .bash_history 
+96 git commit -m"love is good" 
+97 git add .bash_history 
+98 git commit -m"love is good" 
+99 git show HEAD 
+100 git checkout HEAD  
+101 git diff bash_history .bash 
+102 git diff bash_history .bash_history 
+103 clear 
+104 git add success.txt 
