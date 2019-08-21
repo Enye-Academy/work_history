@@ -1,0 +1,237 @@
+-<!DOCTYPE html>  
+2    -<html>  
+3    -<head>  
+4    -  <title>Aguillar Family Wine Festival</title>  
+5    -  <link rel="stylesheet" type="text/css" href="reset.css" />  
+6    -  <link rel="stylesheet" type="text/css" href="style.css" />  
+7    -  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">  
+8    -</head>  
+9    -<body>  
+10    -  <header>  
+11    -    <h1>Annual Aguillar Family Wine Festival</h1>  
+12    -  </header>  
+13    -  
+14    -  <div class="container"  
+15    -        <table>  
+16    -        <tr>  
+17    -          <th>  
+18    -             <th colspan="2"  
+19    -            <h2>Time</h2>  
+20    -          </th>  
+21    -          <h2>Event</h2>  
+22    -        </tr>  
+23    -        <hi>Wine Festival Schedule<h1>  
+24    -         <tr>  
+25    -        </tr>  
+26    -          </table>  
+27    -          </head>  
+28    -      <tbody>  
+29    -        <tr>  
+30    -        </td>  
+31    -        <td>  
+32    -        </td>  
+33    -        <td>  
+34    -        </td>  
+35    -        <td>  
+36    -        </td>  
+37    -        <td>  
+38    -        </tr>  
+39    -</tbody>  
+40    -<body>  
+41    -  <nav>  
+42    -    <a href="./index.html">Brown Bear</a>  
+43    -    <a href="./aboutme.html">About Me</a>  
+44    -  </nav>  
+45    -  <h1>The Brown Bear</h1>  
+46    -  <nav>  
+47    -    <ul>  
+48    -      <li><a href="#introduction">Introduction</a></li>  
+49    -      <li><a href="#habitat">Habitat</a></li>  
+50    -      <li><a href="#media">Media</a></li>  
+51    -    </ul>  
+52    -  </nav>  
+53    -  <div id="introduction">  
+54    -    <h2>About Brown Bears</h2>  
+55    -    <p>The brown bear (<em>Ursus arctos</em>) is native to parts of northern Eurasia and North America.  
+56    -       Its conservation status is currently  
+57    -       <strong>Least Concern</strong>  
+58    -       .<br /><br />  
+59    -       <p>There are many subspecies within the brown bear species, including the  
+60    -      Atlas bear and the Himalayan brown bear.</p>  
+61    -    <a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank">Learn More</a>  
+62    -    <h3>Species</h3>  
+63    -    <ol>  
+64    -      <li>Arctos</li>  
+65    -      <li>Collarus</li>  
+66    -      <li>Horribilis</li>  
+67    -      <li>Nelsoni (extinct)</li>  
+68    -    </ol>  
+69    -    <h3>Features</h3>  
+70    -    <p>Brown bears are not always completely brown. Some can be reddish or yellowish.  
+71    -       They have very large, curved claws and huge paws. Male brown bears are often 30% larger than female brown bears.  
+72    -       They can range from 5 feet to 9 feet from head to toe.</p>  
+73    -  </div>  
+74    -  <div id="habitat">  
+75    -    <h2>Habitat</h2>  
+76    -    <h3>Countries with Large Brown Bear Populations</h3>  
+77    -    <ol>  
+78    -      <li>Russia</li>  
+79    -      <li>United States</li>  
+80    -      <li>Canada</li>  
+81    -    </ol>  
+82    -    <h3>Countries with Small Brown Bear Populations</h3>  
+83    -    <p>Some countries with smaller brown bear populations include Armenia, Belarus,  
+84    -      Bulgaria, China, Finland, France, Greece, India, Japan, Nepal, Poland, Romania,  
+85    -       Slovenia, Turkmenistan, and Uzbekistan.</p>  
+86    -  </div>  
+87    -  <div id="media">  
+88    -    <h2>Media</h2>  
+89    -    <img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" />  
+90    -    <video src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4"  
+91    -    height="240" width="320" controls>Video not supported</video>  
+92    -  </div>  
+93    -</body>  
+94    -<div>  
+95    -       <p id='contact'><stron>email: isa@fashionblog.com | phone: 917-555-1098 | address: 371 284th St, New York, NY, 10001</strong></p>  
+96    -     </div>  
+97    -     <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/profile.jpg"/>  
+98    -     <h3> Isabelle Rodrigues  | 1 day ago</h3>  
+99    -     <h1> Getting Tickets & picking the Shows</h1>  
+100    -     <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/image-one.jpeg"/>  
+101    -     <p>  
+102    -  <a href="https://en.wikipedia.org/wiki/New_York_Fashion_Week" and target="_blank">NYFW</a>  
+103    -  can be both amazingly fun & incredibly overwhelming, especially if you've never been. Luckily,  
+104    -   I'm here to give you an insider's guide and make your first show a pleasurable experience.  
+105    -    By taking my tips and tricks, and following your gut, you'll have an unforgettable experience!</p>  
+106    -    <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/image-two.jpeg"/>  
+107    -<a href="https://www.aboutme.com/">About Me</a>  
+108    -  
+109    -  
+110    -<a href="./aboutme.html">About Me</a>  
+111    -  
+112    -  
+113    -<a href="https://www.aboutme.com/" />  
+114    -  
+115    -  
+116    -<a href="./aboutme.html" />  
+117    -2 html tags  
+118    - <title>Ship To It - Company Packing List</title>  
+119    -  <link href="https://fonts.googleapis.com/css?family=Lato: 100,300,400,700|Luckiest+Guy|Oxygen:300,400" rel="stylesheet">  
+120    -  <link href="style.css" type="text/css" rel="stylesheet">  
+121    -</head>  
+122    -  <style {font-size: 18 pixels}  
+123    -<body>  
+124    -  
+125    -  <ul class="navigation">  
+126    -    <li><img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-9/htmlcss1-img_logo-shiptoit.png" height="20px;"></li>  
+127    -    <li class="active">Action List</li>  
+128    -    <li>Profiles</li>  
+129    -    <li>Settings</li>  
+130    -  </ul>  
+131    -  
+132    -  <div class="search">Search the table</div>  
+133    -  <table>  
+134    -    <thead>  
+135    -    <tr>  
+136    -      <th>Company name</th>  
+137    -      <th>Number of Itens to Ship</th>  
+138    -      <th>Number Action</th>  
+139    -      </tr>  
+140    -    </thead>  
+141    -    <body>  
+142    -      <td>Adam's Greenworks </td>  
+143    -     <td>14</td>  
+144    -      <td>package items</td>  
+145    -    </tr>  
+146    -  <tr>  
+147    -  <td>Davie's Burgers</td>  
+148    -  <td rowspan="2"</td>  
+149    -  <td>Send Invoice</td>  
+150    -</tr>  
+151    -<tr>  
+152    -  <td>Baker's Bike Shop</td>  
+153    -  <td colspan="3"</td>  
+154    -  <td>Send Invoice</td>  
+155    -</tr>  
+156    -<tr>  
+157    -  <td>Miss Sally's Southern</td>  
+158    -  <td>4</td>  
+159    -  <td>Ship</td>  
+160    -</tr>  
+161    -<tr>  
+162    -  <td>Summit Resort Rentals</td>  
+163    -  <td>4</td>  
+164    -  <td>Ship</td>  
+165    -</tr>  
+166    -<tr>  
+167    -  <td>Strike Fitness</td>  
+168    -  <td>1</td>  
+169    -  <td>Enter Order</td>  
+170    -  <tfoot>  
+171    -    <td>Total</td>  
+172    -    <td>28</td>  
+173    -  </tfoot>  
+174    -</tr>  
+175    -  </body>  
+176    -Report a Bug  
+177    -If you see a bug or any other issue with this page, please report it here.  
+178    - <title>Ship To It - Company Packing List</title>  
+179    -  <link href="https://fonts.googleapis.com/css?family=Lato: 100,300,400,700|Luckiest+Guy|Oxygen:300,400" rel="stylesheet">  
+180    -  <link href="style.css" type="text/css" rel="stylesheet">  
+181    -</head>  
+182    -  <style {font-size: 18 pixels}  
+183    -<body>  
+184    -  
+185    -  <ul class="navigation">  
+186    -    <img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-9/htmlcss1-img_logo-shiptoit.png"  
+187    -     height="20px;"></li>  
+188    -    <li class="active">Action List</li>  189    -    <li>Profiles</li>  
+190    -    <li>Settings</li>  
+191    -  </ul>  
+192    -  
+193    -  <div class="search">Search the table</div>  
+194    -  <table>  
+195    -    <thead>  
+196    -    <tr>  
+    -      <th>Company name</th>  
+    -      <th>Number of Itens to Ship</th>  
+    -      <th>Number Action</th>  
+    -      </tr>  
+    -    </thead>  
+    -    <body>  
+    -      <td>Adam's Greenworks </td>  
+    -     <td>14</td>  
+    -      <td>package items</td>  
+    -    </tr>  
+    -  <tr>  
+    -  <td>Davie's Burgers</td>  
+    -  <td rowspan="2"</td>  
+    -  <td>Send Invoice</td>  
+    -</tr>  
+    -<tr>  
+    -  <td>Baker's Bike Shop</td>  
+    -  <td colspan="3"</td>  
+    -  <td>Send Invoice</td>  
+    -</tr>  
+    -<tr>  
+    -  <td>Miss Sally's Southern</td>  
+   -  <td>4</td>  
+    -  <td>Ship</td>  
+   -</tr>  
+    -<tr>  
+    -  <td>Summit Resort Rentals</td>  
+    -  <td>4</td>  
+    -  <td>Ship</td>  
+    -</tr>  
+    -<tr>  
+    -  <td>Strike Fitness</td>  
+    -  <td>1</td>  
+    -  <td>Enter Order</td>  
+    -  <tfoot> 
+    -    <td>Total</td>  
+    -    <td>28</td>  
+    -  </tfoot>  
+    -</tr>  
+    -  </body>  
+    -  </head>  
+   -</ht
